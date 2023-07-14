@@ -171,7 +171,7 @@ export const portfolioList = [
   {
     title: "Arti Discord Bot",
     subtitle: "Discord JS, Node JS, MongoDB",
-    img: "/image/arti.png",
+    img: "/image/Arti.png",
     description: "Arti is a Discord bot that I created using Discord JS, Node JS and MongoDB. This bot can do many things, such as playing music, displaying information about the server, displaying information about the user, and many more.",
     href: "https://discord.com/channels/@me/1017603739462402170",
   }
